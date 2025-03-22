@@ -1,2 +1,3 @@
 new testfile02 has been to github
 adding line2 in testfile02
+adding line2 in testfile02.txt
